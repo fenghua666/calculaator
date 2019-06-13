@@ -68,7 +68,7 @@ public class Calculator {
 				return;
 			}
 		} while (d == 2);
-		System.out.println("谢谢使用，再见");
+		System.out.println("谢谢使用，下次再见!");
 		scan.close();
 
 	}
